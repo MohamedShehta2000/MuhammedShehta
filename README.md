@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuhammedShehta](https://github.com/MuhammedShehta)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-shehta-502243230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxpE6stUJTMuFJSupN4zkOg%3D%3D](https://www.linkedin.com/in/mohamed-shehta-502243230)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-shehta-502243230
 
 - 📫 How to reach me **mohamedshehta2024@gmail.com**
 
