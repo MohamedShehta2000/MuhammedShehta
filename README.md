@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CCNA 200-301 & CCNP(Enterprise)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MuhammedShehta](https://github.com/MuhammedShehta)
+- 👨‍💻 All of my projects are available at [https://github.com/MuhammedShehta]([https://github.com/MuhammedShehta])
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-shehta-502243230]
 
