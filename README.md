@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Trainee in DEPI**
 
-- 🌱 I’m currently learning **CCNA 200-301 & CCNP(Enterprise)**
+- 🌱 I’m currently learning **CCNA 200-301 & CCNP (Enterprise)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuhammedShehta]([https://github.com/MuhammedShehta])
 
